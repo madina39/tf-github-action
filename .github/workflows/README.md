@@ -1,3 +1,0 @@
-i keep getting an error on secrets and thats what an vs code said that it might an invalid context
-i had an trouble when i push my yaml file into my github i didn't see any actions being run when i tried the first time i don't have any clue on what could have went run so i had to configure the action on github website itself and pull into the vs code
-i was able to figure out how to create tf cloud token on the tf website but i don't know how to put that together into yaml file 
